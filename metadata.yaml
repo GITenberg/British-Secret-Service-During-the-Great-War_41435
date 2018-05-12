@@ -1,0 +1,26 @@
+_repo: British-Secret-Service-During-the-Great-War_41435
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Everitt, Nicholas
+    alias: Everitt, Henry Reeve
+    gutenberg_agent_id: '41181'
+    url: http://www.gutenberg.org/2009/agents/41181
+description: ''
+gutenberg_issued: '2012-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Secret service -- Great Britain'
+- !lcc 'D501'
+- !lcsh 'Secret service -- Great Britain'
+title: British Secret Service During the Great War
+url: http://www.gutenberg.org/ebooks/41435
